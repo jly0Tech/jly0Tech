@@ -8,7 +8,9 @@
  <table>
   <tr>
     <td valign="top">
-      <p>PC Technician with an associate degree in Information Systems and Technology and 4 certificates</p>
+      <p>PC Technician with an associate degree in Information Systems and Technology and certified in CompTIA A+, Network+, and Security+. 
+       I am currently studying for CCNA and will graduate Bachelor's degree in May 2026.
+      </p>
     </td>
     <td valign="top">
       <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
