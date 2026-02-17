@@ -2,13 +2,15 @@
 
 
 <!--Showing the link button under the table-->
+
+
  <table>
   <tr>
     <td valign="top">
       <p>PC Technician with an associate degree in Information Systems and Technology and 4 certificates</p>
     </td>
     <td valign="top">
-      <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
+      <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
     </td>
   </tr>
 </table>
