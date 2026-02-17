@@ -9,8 +9,8 @@
  <table>
   <tr>
     <td valign="top">
-      <p>PC Technician with an associate degree in Information Systems and Technology and certified in CompTIA A+, Network+, and Security+. 
-       I am currently studying for CCNA and will graduate Bachelor's degree in May 2026.
+      <p> My name is Jimmy. I am currently working as a PC Technician and I have an associate degree in Information Systems and Technology and have CompTIA A+, Network+, Security+, 
+       and AWS CLF-002 certificates. I started IT homelab in August 2022 and I am currently studying for CCNA and will graduate Bachelor's degree in May 2026. I appreciate your time looking at my IT homelab down below.
       </p>
     </td>
     <td valign="top">
@@ -34,7 +34,6 @@
     <img width="150" height="150" alt="Security+Pixel" src="https://github.com/user-attachments/assets/6d30724e-9667-48be-aeee-c9696c3c018e" />
   </a>
 </div>
-
 
 
 
