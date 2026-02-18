@@ -59,6 +59,8 @@
 
        - [Joining Domain]()
 
+- [Enumerating with ABE](https://github.com/jly017tech/Access-Based-Enumeration-ABE-)
+
   - [PDQ Deploy and Inventory](https://github.com/jly017tech/PDQDeploy-Inventory)
  
  - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
