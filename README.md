@@ -48,7 +48,7 @@
  
        - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
        - [Windows Deplyoment Service Lab](https://github.com/jly017tech/2025-MDTLab)
-       - [MDT Deployment Lab](https://github.com/jly017tech/2025-MDTLab)
+       - [MDT Deployment Lab (Imaging)](https://github.com/jly017tech/2025-MDTLab)
            - [MDT: Adding application](https://github.com/jly017tech/MDT-AddingApp)
 
        - [Setting up DHCP Server](https://github.com/jly017tech/2025_DHCP_Server)
