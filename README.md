@@ -14,7 +14,7 @@
       </p>
     </td>
     <td valign="top">
-      <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
+      <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
     </td>
   </tr>
 </table>
