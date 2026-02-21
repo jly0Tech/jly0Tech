@@ -79,7 +79,7 @@
 
 - [Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
 
-<h2><b>Cybersecurity Homelab 2022</b></h2>
+<h2><b>Cybersecurity Homelab</b></h2>
 
 - [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
 
