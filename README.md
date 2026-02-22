@@ -41,7 +41,7 @@
  <div style="display: inline-block; text-align: left align=center">
 
     
-<h2><b>Windows Server 2022</b></h2>
+<h2><b>Windows Server 2022/2025</b></h2>
 
   - [Windows Server 2022/2025](https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md)
  
