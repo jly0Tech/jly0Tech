@@ -33,7 +33,7 @@
 
 - <b>FOG Imaging Server with Ubuntu and Windows Server</b>
 
-   -[Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
+   - [Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
 
  
 
