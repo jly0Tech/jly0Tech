@@ -1,12 +1,12 @@
-<h1 align="center">My name is Jimmy Ly. <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional</a></h1> 
+<h1 align="center"> »»——🖥️  My name is Jimmy Ly. ———«« 🖥️ <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional</a></h1> 
 
 <hr>
 
-<h1 align="center"> »»——🖥️  Information Technology Projects: ———«« 🖥️</h1>
+<h1 align="center">Information Technology Projects: </h1>
 
 
     
-<h2><b>Windows Server 2022/2025</b></h2>
+- <h2><b>Windows Server 2022/2025</b></h2>
 
   - [Windows Server 2022/2025](https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md)
  
