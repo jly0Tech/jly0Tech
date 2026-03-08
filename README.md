@@ -3,22 +3,6 @@
 
 
 
-<h1>Introduction: </h1>
- <table>
-  <tr>
-    <td valign="top">
-      <p> My name is Jimmy. I am currently working as a PC Technician and I have an associate degree in Information Systems and Technology and have CompTIA A+, Network+, Security+, 
-       and AWS CLF-002 certificates. I started IT homelab in August 2022 and I am currently studying for CCNA and will graduate Bachelor's degree in May 2026. I appreciate your time looking at my IT homelab down below.
-      </p>
-    </td>
-    <td valign="top">
-      <img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/bb4d74eb-9401-4216-90ea-1c6f1a81a443" />
-    </td>
-  </tr>
-</table>
-
-
-
 <div align="left">
    
  <div style="display: inline-block; text-align: left align=center">
@@ -61,20 +45,6 @@
 <h2>FOG Imaging Server with Ubuntu and Windows Server</h2>
 
 - [Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
-
-<h2><b>Cybersecurity Homelab</b></h2>
-
-- [Enterprise 101](https://github.com/jly017tech/Cybersecurity-Homelab)
-
-
-<h2>Artifiical Intelligence Projects</h2>
-
-<h2>Documentation</h2>
-
- <h2>Ticketing System:</h2>
-
-- [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
-
 
  
    </div>
