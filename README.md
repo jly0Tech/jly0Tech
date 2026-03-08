@@ -76,10 +76,6 @@
 - [SpiceWorks](https://github.com/jly017tech/SpiceWorks)
 
 
-
-<h2>Programming Projects</h2>
-
-  - [Simple Financial Budget Website](https://github.com/jly017tech/WindowsServer)
  
    </div>
 </div>
