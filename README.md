@@ -1,5 +1,6 @@
- <h1 align="center"> »»——🖥️ IT Homelab ———«« 🖥️<h1/> 
+<h1 align="center">My name is Jimmy Ly. I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional</a></h1> 
 
+<h2>Information Technology: »»——🖥️ IT Homelab ———«« 🖥️</h2>
 
 
 
