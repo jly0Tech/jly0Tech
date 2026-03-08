@@ -1,11 +1,23 @@
 <h1 align="center"> »»——🖥️  My name is Jimmy Ly ———«« 🖥️ <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional</a></h1> 
 
-<hr>
+
+<br>
+
+
+
+
+<h2>Connect with me:</h2>
+
+<img  align="left" alt="Jimmy" width="62px" height="62px"  src="https://github.com/user-attachments/assets/4fbf9e2a-d765-4beb-ac90-a95e21437695" <a href=""></a>/>
+
+
+<br>
+<br>
 
 <h1 align="center">Information Technology Projects: </h1>
 
 
-- <b>Active Directory 2022/2025</b>
+- <b>Windows Server: Active Directory 2022 and 2025</b>
    
     - [Windows Server 2022/2025](https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md)
     - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
