@@ -1,7 +1,6 @@
  <h1 align="center"> »»——🖥️ IT Homelab ———«« 🖥️<h1/> 
 
 
-<!--Showing the link button under the table-->
 
 
 <h1>Introduction: </h1>
@@ -17,22 +16,6 @@
     </td>
   </tr>
 </table>
-
-
-
-<h2 align="left">Certifications: </h2>
-
-<div align="left">
-  <a href="https://www.credly.com/badges/2e10a288-9243-4ee5-a105-3b7c183cbc08/public_url">
-    <img width="150" height="150" alt="A+Pixel" src="https://github.com/user-attachments/assets/251568db-15c6-4d9d-8b64-0dd2f51ffad0" />
-  </a>
-  <a href="https://www.credly.com/badges/344edf49-ea9b-4fb6-a7cb-22d8f2b959f0/public_url">
-    <img width="150" height="150" alt="Network+Pixel" src="https://github.com/user-attachments/assets/b0dd4b0f-3740-471d-9898-1b7133922bf2" />
-  </a>
-  <a href="https://www.credly.com/badges/07a76be6-a4d8-42d1-9e28-b57cfc1a24c9/public_url">
-    <img width="150" height="150" alt="Security+Pixel" src="https://github.com/user-attachments/assets/6d30724e-9667-48be-aeee-c9696c3c018e" />
-  </a>
-</div>
 
 
 
