@@ -1,18 +1,6 @@
 <h1 align="center"> »»——🖥️  My name is Jimmy Ly ———«« 🖥️ <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional</a></h1> 
 
 
-<br>
-
-
-
-
-<h2>Connect with me:</h2>
-
-<img  align="left" alt="Jimmy" width="62px" height="62px"  src="https://github.com/user-attachments/assets/4fbf9e2a-d765-4beb-ac90-a95e21437695" <a href=""></a>/>
-
-
-<br>
-<br>
 
 <h1 align="center">Information Technology Projects: </h1>
 
@@ -48,5 +36,10 @@
    - [Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
 
  
+
+<h2>Connect with me:</h2>
+<a href="https://www.linkedin.com/in/jly-tech/"><img  align="left" alt="Jimmy" width="62px" height="62px"  src="https://github.com/user-attachments/assets/4fbf9e2a-d765-4beb-ac90-a95e21437695" /></a>
+
+
 
 
