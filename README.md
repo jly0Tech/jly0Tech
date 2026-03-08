@@ -23,14 +23,17 @@
      - [Group Policy Management](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
      - [Group Poliy Overview](https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md)
      - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
+   
      - [Remotely connecting a client in the virtual machine](https://github.com/jly017tech/RemoteUsers-Client/blob/main/README.md)
-      - [Automating Windows Server with N8n](https://github.com/jly017tech/2025-N8n)
-      - [Action1 - Patch Management](https://github.com/jly017tech/Group-Policy-Overview/blob/main/README.md)
+
+     - [Automating Windows Server with N8n](https://github.com/jly017tech/2025-N8n)
+
+     - [Action1 - Patch Management](https://github.com/jly017tech/Group-Policy-Overview/blob/main/README.md)
 
 
-<h2>FOG Imaging Server with Ubuntu and Windows Server</h2>
+- <b>FOG Imaging Server with Ubuntu and Windows Server</b>
 
-- [Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
+   -[Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
 
  
 
