@@ -3,11 +3,6 @@
 <h2>Information Technology: »»——🖥️ IT Homelab ———«« 🖥️</h2>
 
 
-
-<div align="left">
-   
- <div style="display: inline-block; text-align: left align=center">
-
     
 <h2><b>Windows Server 2022/2025</b></h2>
 
@@ -48,7 +43,5 @@
 - [Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
 
  
-   </div>
-</div>
 
 
