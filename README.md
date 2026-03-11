@@ -1,7 +1,12 @@
+<!-- Top of the section-->
 <h1 align="center"> Hello, my name is Jimmy Ly </h1> 
 
 
 <h1 align="center">Introduction:</h1>
+
+<p>
+      
+</p>
 
 <div align="center">
 
