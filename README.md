@@ -10,9 +10,13 @@
 <p>
  
  ```
-As a PC Technician, I bring a combination of hands-on part-time experience and self-driven Homelab exploration that together shape how I approach IT from the ground up and support daily operations by troubleshooting hardware and software issues, repairing computer components, reimaging Windows 11 machines using MECM, and managing tickets through ServiceNow.
+As a PC Technician, I bring a combination of hands-on part-time experience and self-driven Homelab exploration
+that together shapehow I approach IT from the ground up and support daily operations by troubleshooting hardware and software issues,
+repairing computer components, reimaging Windows 11 machines using MECM, and managing tickets through ServiceNow.
 
-Outside of work, my Homelab pushes my skills further — I run VMware and VirtualBox to create virtual machines, configure Domain Controllers and Group Policy Objects, write PowerShell scripts to automate tasks, and set up PXE boot to practice network-based OS imaging the way enterprise environments do it.
+Outside of work, my Homelab pushes my skills further — I run VMware and VirtualBox to create virtual machines,
+configure Domain Controllers and Group Policy Objects,
+write PowerShell scripts to automate tasks, and set up PXE boot to practice network-based OS imaging the way enterprise environments do it.
 
 As I continue to grow, I'm working toward transitioning from part-time PC Technician into a full-time IT role and studying my CCNA.
  
