@@ -1,12 +1,18 @@
+<h1 align="center"> Hello, my name is Jimmy Ly <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional </a></h1> 
+
+
 <div align="center">
-<h1 align="center">Hello, my name is Jimmy Ly <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional </a></h1> 
 
+<img align="center" width="80" height="22" alt="LinkedinPixelArt" src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f3" />
 
+<img align="center" width="80" height="22" alt="DocumentationPixlart" src="https://github.com/user-attachments/assets/475d14c4-cbbe-4110-902e-ceee2a99719b" />
 
-![](https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5)
-<a href="https://www.linkedin.com/in/jly-tech/"><img  alt="pixel_art1" width="62px" height="62px"  src="https://github.com/user-attachments/assets/4fbf9e2a-d765-4beb-ac90-a95e21437695" /></a>
-
+<img align="center" src="https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5"/>
+   
 </div>
+
+<br>
+
 
 <h1 align="center"> »»——🖥️  Information Technology Projects: ———«« 🖥️</h1>
 
