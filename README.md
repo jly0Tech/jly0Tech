@@ -33,11 +33,11 @@
      - [Setting up Shared Folder with NFTS-Permission](https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission)
 
 
-- <b>Action1 - Patch Management</b>
+- <b>»»——🖥️ Action1 - Patch Management ———«« 🖥️<</b>
 
      - [Action1 - Patch Management](https://github.com/jly017tech/Group-Policy-Overview/blob/main/README.md)
 
-- <b>FOG Imaging Server with Ubuntu and Windows Server</b>
+- <b>»»——🖥️ FOG Imaging Server with Ubuntu and Windows Server  ———«« 🖥️<</b>
 
    - [Ubuntu FOG (Free Open-source Ghost)](https://github.com/jly017tech/FOG-Image-Server)
 
