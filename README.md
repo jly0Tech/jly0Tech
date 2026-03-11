@@ -19,9 +19,10 @@ such as iPads and laptops, and managing support tickets through ServiceNow.
 
 Outside of work, I continue developing my technical skills through my IT homelab. Using Oracle VirtualBox,
 I create virtual machines to gain hands-on experience with Windows Server 2025,
-including configuring Networking setting, joining Windows 11 Pro to domain controller (Windows Server 2025),
-setting up Group Policy Objects, DHCP, and DNS servers.
-I also write PowerShell scripts to automate tasks and practice deploying Windows 11 using MECM through PXE network boot.
+including configuring Networking setting, joining Windows 11 Pro to domain controller
+(Windows Server 2025),setting up Group Policy Objects, DHCP, and DNS servers.
+I also write PowerShell scripts to automate tasks and practice deploying
+Windows 11 using MECM through PXE network boot.
 
 As I continue to grow professionally, I am working toward transitioning from a part-time PC Technician role
 into a full-time IT position while continuing to expand my networking knowledge and studying for my CCNA.
