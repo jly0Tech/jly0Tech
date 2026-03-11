@@ -51,7 +51,7 @@ into a full-time IT position while continuing to expand my networking knowledge 
 
 - <b>Windows Server: Active Directory 2022 and 2025</b>
    
-    - [Windows Server 2022/2025](https://github.com/jly017tech/Window_Server-2022-25/edit/main/README.md)
+    - [Windows Server 2022/2025](https://github.com/jly0Tech/Window_Server-2022-25)
     - [Creating Organizational Unit](https://github.com/jly017tech/AD-CreatingOU/blob/main/README.md)
     - [Windows Deplyoment Service Lab](https://github.com/jly017tech/2025-MDTLab)
     - [MDT Deployment Lab (Imaging)](https://github.com/jly017tech/2025-MDTLab)
