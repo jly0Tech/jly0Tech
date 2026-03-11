@@ -2,6 +2,13 @@
 
 
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5)
+<a href="https://www.linkedin.com/in/jly-tech/"><img  alt="pixel_art1" width="62px" height="62px"  src="https://github.com/user-attachments/assets/4fbf9e2a-d765-4beb-ac90-a95e21437695" /></a>
+
+</div>
+
 <h1 align="center">Information Technology Projects: </h1>
 
 
@@ -38,7 +45,11 @@
  
 
 <h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/jly-tech/"><img  align="left" alt="Jimmy" width="62px" height="62px"  src="https://github.com/user-attachments/assets/4fbf9e2a-d765-4beb-ac90-a95e21437695" /></a>
+
+
+
+
+<img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="right">
 
 
 
