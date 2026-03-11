@@ -5,7 +5,7 @@
 <h1 align="center">Introduction </h1>
 
 <p>
-      
+ As a PC Technician, I thrive at the intersection of hardware reliability and software efficiency. While my professional life is spent diagnosing and optimizing endpoints, my Homelab is where I push the boundaries of enterprise networking, virtualization, and self-hosting
 </p>
 
 <div align="center">
