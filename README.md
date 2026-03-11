@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, my name is Jimmy Ly </h1> 
 
 
-<h1 align="center">Introduction:</h1>
+<h1 align="center">Introduction </h1>
 
 <p>
       
@@ -11,6 +11,8 @@
 <div align="center">
 
 <img  width="120" height="120" alt="LinkedinPixelArt" src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f3" />
+
+<img width="120" height="120" alt="CredlyPixelArt" src="https://github.com/user-attachments/assets/0a59e606-032e-45f6-947d-e2a20f92d6ec" />
 
 <img width="120" height="120" alt="DocumentationPixlart" src="https://github.com/user-attachments/assets/0c4847c1-4c9a-42c5-a23f-39d8449390b6" />
 
