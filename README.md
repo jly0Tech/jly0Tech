@@ -10,9 +10,11 @@
 <p>
  
  ```
-As a PC Technician, I thrive at the intersection of hardware reliability and software efficiency.
-While my professional life is spent diagnosing and optimizing endpoints,
-my Homelab is where I push the boundaries of enterprise networking, virtualization, and self-hosting
+As a PC Technician, I bring a combination of hands-on part-time experience and self-driven Homelab exploration that together shape how I approach IT from the ground up and support daily operations by troubleshooting hardware and software issues, repairing computer components, reimaging Windows 11 machines using MECM, and managing tickets through ServiceNow.
+
+Outside of work, my Homelab pushes my skills further — I run VMware and VirtualBox to create virtual machines, configure Domain Controllers and Group Policy Objects, write PowerShell scripts to automate tasks, and set up PXE boot to practice network-based OS imaging the way enterprise environments do it.
+
+As I continue to grow, I'm working toward transitioning from part-time PC Technician into a full-time IT role and studying my CCNA.
  
  ```
 </p>
