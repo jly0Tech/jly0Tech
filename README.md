@@ -5,13 +5,13 @@
 
 <div align="center">
 
-<img  width="80" height="21" alt="LinkedinPixelArt" src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f3" />
+<img  width="120" height="120" alt="LinkedinPixelArt" src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f3" />
 
-<img width="80" height="21" alt="DocumentationPixlart" src="https://github.com/user-attachments/assets/0c4847c1-4c9a-42c5-a23f-39d8449390b6" />
+<img width="120" height="120" alt="DocumentationPixlart" src="https://github.com/user-attachments/assets/0c4847c1-4c9a-42c5-a23f-39d8449390b6" />
 
-<img width="80" height="21" alt="YoutubePixelArt" src="https://github.com/user-attachments/assets/94d57b8e-3741-4962-9a94-a38f48068f80" />
+<img width="120" height="120" alt="YoutubePixelArt" src="https://github.com/user-attachments/assets/94d57b8e-3741-4962-9a94-a38f48068f80" />
 
-<img  src="https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5"/>
+<img width="120" height="120" src="https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5"/>
    
 </div>
 
