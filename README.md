@@ -1,6 +1,8 @@
 <h1 align="center"> Hello, my name is Jimmy Ly. </h1> 
 
 
+<h1>Introduction:</h1>
+
 <div align="center">
 
 <img  width="80" height="21" alt="LinkedinPixelArt" src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f3" />
