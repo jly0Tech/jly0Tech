@@ -8,7 +8,7 @@
 
 </div>
 
-<h1 align="center">»»——🖥️  Information Technology Projects: ———«« 🖥️ </h1>
+<h1 align="center"> »»——🖥️  Information Technology Projects: ———«« 🖥️</h1>
 
 
 - <b>Windows Server: Active Directory 2022 and 2025</b>
