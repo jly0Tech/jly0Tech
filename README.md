@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<img align="center" width="80" height="22" alt="LinkedinPixelArt" src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f3" />
+<img  width="80" height="21" alt="LinkedinPixelArt" src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f3" />
 
-<img align="center" width="80" height="22" alt="DocumentationPixlart" src="https://github.com/user-attachments/assets/475d14c4-cbbe-4110-902e-ceee2a99719b" />
+<img width="80" height="21" alt="DocumentationPixlart" src="https://github.com/user-attachments/assets/0c4847c1-4c9a-42c5-a23f-39d8449390b6" />
 
-<img align="center" src="https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5"/>
+<img  src="https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5"/>
    
 </div>
 
