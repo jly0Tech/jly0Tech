@@ -24,7 +24,7 @@ including configuring networking settings, joining Windows 11 Pro to the domain 
 I also write PowerShell scripts to automate tasks and practice deploying
 Windows 11 uses MECM via PXE network boot.
 
-As I continue to grow professionally, I am working toward transitioning from a part-time PC Technician role
+🎯 As I continue to grow professionally, I am working toward transitioning from a part-time PC Technician role
 into a full-time IT position while continuing to expand my networking knowledge and studying for my CCNA.
  
  ```
