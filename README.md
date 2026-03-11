@@ -11,7 +11,7 @@
 
 <img width="120" height="120" alt="YoutubePixelArt" src="https://github.com/user-attachments/assets/94d57b8e-3741-4962-9a94-a38f48068f80" />
 
-<img width="120" height="120" src="https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5"/>
+<img width="220" height="220" src="https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5"/>
    
 </div>
 
