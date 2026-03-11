@@ -1,15 +1,14 @@
-<h1 align="center"> »»——🖥️  My name is Jimmy Ly ———«« 🖥️ <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional</a></h1> 
-
-
-
 <div align="center">
+<h1 align="center"> My name is Jimmy Ly  <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional </a></h1> 
+
+
 
 ![](https://komarev.com/ghpvc/?username=jly0Tech&color=0ca4a5)
 <a href="https://www.linkedin.com/in/jly-tech/"><img  alt="pixel_art1" width="62px" height="62px"  src="https://github.com/user-attachments/assets/4fbf9e2a-d765-4beb-ac90-a95e21437695" /></a>
 
 </div>
 
-<h1 align="center">Information Technology Projects: </h1>
+<h1 align="center">»»——🖥️  Information Technology Projects: ———«« 🖥️ </h1>
 
 
 - <b>Windows Server: Active Directory 2022 and 2025</b>
@@ -44,7 +43,6 @@
 
  
 
-<h2>Connect with me:</h2>
 
 
 
