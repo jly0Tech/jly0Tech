@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, my name is Jimmy Ly. <br> I am an aspiring <a href="https://www.linkedin.com/in/jly-tech/">IT Professional </a></h1> 
+<h1 align="center"> Hello, my name is Jimmy Ly. </h1> 
 
 
 <div align="center">
