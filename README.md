@@ -17,7 +17,7 @@ my Homelab is where I push the boundaries of enterprise networking, virtualizati
  ```
 </p>
 
-<h1>Let's make connection on Linkedin</h1>
+<h1 align="center">Let's make connection on Linkedin</h1>
 <hr>
 <div align="center">
 
