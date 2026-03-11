@@ -4,10 +4,20 @@
 
 <h1 align="center">Introduction </h1>
 
+
+
+
 <p>
- As a PC Technician, I thrive at the intersection of hardware reliability and software efficiency. While my professional life is spent diagnosing and optimizing endpoints, my Homelab is where I push the boundaries of enterprise networking, virtualization, and self-hosting
+ 
+ ```
+As a PC Technician, I thrive at the intersection of hardware reliability and software efficiency.
+While my professional life is spent diagnosing and optimizing endpoints,
+my Homelab is where I push the boundaries of enterprise networking, virtualization, and self-hosting
+ 
+ ```
 </p>
 
+<hr>
 <div align="center">
 
 <img  width="120" height="120" alt="LinkedinPixelArt" src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f3" />
@@ -22,7 +32,6 @@
    
 </div>
 
-<hr>
 <br>
 
 
