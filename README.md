@@ -10,7 +10,11 @@
 <p>
  
  ```
-As a PC Technician, I bring a combination of hands-on part-time experience and self-driven homelab learning that shapes my approach to IT from the ground up. In my role, I support daily operations by troubleshooting hardware and software issues, repairing computer components, such as replacing RAM and SSDs in laptops, reimaging Windows 11 machines using MECM, tracking asset tag numbers for loaner devices such as iPads and laptops, and managing support tickets through ServiceNow.
+As a PC Technician, I bring a combination of hands-on part-time experience and self-driven homelab
+learning that shapes my approach to IT from the ground up.
+In my role, I support daily operations by troubleshooting hardware and software issues, repairing computer components,
+such as replacing RAM and SSDs in laptops, reimaging Windows 11 machines using MECM, tracking asset tag numbers
+for loaner devices such as iPads and laptops, and managing support tickets through ServiceNow.
 
 Outside of work, I continue developing my technical skills through my IT homelab. Using Oracle VirtualBox,
 I create virtual machines to gain hands-on experience with Windows Server 2025,
