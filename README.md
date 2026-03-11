@@ -1,15 +1,13 @@
 <!-- Top of the section-->
-<h1 align="center"> Hello, my name is Jimmy Ly </h1> 
 
 
 <h1 align="center">Introduction </h1>
 
 
-
-
 <p>
  
  ```
+Hello, my name is Jimmy.
 As a PC Technician, I bring a combination of hands-on part-time experience and self-driven homelab
 learning that shapes my approach to IT from the ground up.
 In my role, I support daily operations by troubleshooting hardware and software issues,
